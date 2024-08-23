@@ -1,4 +1,4 @@
-# Funbio
+# Proyecto Fundamentos de Biodiseño
 Integrantes:
 
 Micaela Alejandra Caro Córdova
