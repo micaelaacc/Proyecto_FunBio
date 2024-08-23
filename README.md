@@ -1,5 +1,5 @@
 # Funbio
-Integrates:
+Integrantes:
 
 Micaela Alejandra Caro Córdova
 
