@@ -1,5 +1,5 @@
 # Proyecto Fundamentos de Biodiseño
-
+![Presentación](Imágenes/Presentación.jpg)
 ## Nuestro equipo
 
 - Micaela Alejandra Caro Córdova
