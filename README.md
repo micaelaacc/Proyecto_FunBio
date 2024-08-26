@@ -9,11 +9,17 @@ que permita mejorar la calidad de vida y el proceso de rehabilitación de pacien
 - Nuestro equipo
 - Entregables
 - Bibliografía
-  
+
+## Temática del proyecto
+
 ## Nuestro equipo
 - Micaela Alejandra Caro Córdova
 - Laura Sofía Diaz Cobba
 - Juan Jose Correa Arrieta
 - Gustavo Gabriel Quispe Arbieto
 - Renzo Fernandez Martinez
+
+## Entregables
+
+## Bibliografía
 
