@@ -8,7 +8,7 @@ que permita mejorar la calidad de vida y el proceso de rehabilitación de pacien
 - [Temática del proyecto](https://github.com/micaelaacc/Proyecto_FunBio#tem%C3%A1tica-del-proyecto)
 - [Nuestro equipo](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/README.md#nuestro-equipo)
 - [Entregables](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/README.md#entregables)
-- [Bibliografía]
+- [Bibliografía](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/README.md#bibliograf%C3%ADa)
 
 ## Temática del proyecto
 
