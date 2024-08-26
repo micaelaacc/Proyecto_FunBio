@@ -9,4 +9,4 @@
 - Gustavo Gabriel Quispe Arbieto
 - Renzo Fernandez Martinez
 
-## Integrantes: 
+# Integrantes: 
