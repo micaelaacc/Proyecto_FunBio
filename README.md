@@ -2,7 +2,7 @@
 
 
 Bienvenidos al repositorio del Grupo 17 del curso: "Fundamentos de Biodiseño". En este espacio recopilaremos nuestra investigación orientada al desarrollo de una propuesta de innovación 
-que permita mejorar la calidad de vida y el proceso de rehabilitación de pacientes amputados de miembros superiores e inferiores.
+que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pacientes amputados de miembros superiores e inferiores.
 
 ## Tabla de contenidos
 - [Temática del proyecto](https://github.com/micaelaacc/Proyecto_FunBio#tem%C3%A1tica-del-proyecto)
