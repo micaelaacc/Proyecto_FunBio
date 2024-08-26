@@ -8,3 +8,5 @@
 - Juan Jose Correa Arrieta
 - Gustavo Gabriel Quispe Arbieto
 - Renzo Fernandez Martinez
+
+## Integrantes: 
