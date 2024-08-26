@@ -1,4 +1,3 @@
-# Proyecto Fundamentos de Biodiseño
 ![Presentación](Imágenes/Presentación.jpg)
 ## Nuestro equipo
 
