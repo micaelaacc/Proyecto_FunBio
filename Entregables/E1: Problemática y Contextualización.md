@@ -1,10 +1,13 @@
-# Caso clínico:
+# Entregable 1
 
+## Análisis del caso
 
+## Contexto Mundial
 
-# Contexto General:
+## Contexto en el Perú
 
+## Diagrama de Ishikawa
 
+## Definición del problema
 
-# Contexto en el Perú:
-
+## Estado del arte
