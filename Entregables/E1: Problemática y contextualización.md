@@ -6,7 +6,7 @@
 - [Definiciones clave](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#definiciones-clave)
 - [Contexto mundial](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#contexto-mundial)
 - [Contexto en el Perú](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#contexto-en-el-per%C3%BA)
-- [Diagrama de Ishikawa]()
+- [Diagrama de Ishikawa](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#diagrama-de-ishikawa)
 - [Definición del problema]()
 - [Estado del arte]()
 - [Bibliografía]()
