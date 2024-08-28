@@ -15,7 +15,7 @@ La amputación es una intervención quirúrjica irreversible en la que se remuev
 
 ### Amputación transtibial (BK)
 La amputación transtibial conocida como amputación "por debajo de la rodilla" (o BK, en inglés) es aquella que corta los huesos de la espinilla y el gemelo, conservando la articulación de la rodilla.
-```HTML
+
 
 <div style="text-align: center;">
   <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/bbb75eba4fb3ef5548b175d63d89ead55a3cf87b/Im%C3%A1genes/AmputacionTranstibial.jpg" alt="Amputacion Trantibial" />
