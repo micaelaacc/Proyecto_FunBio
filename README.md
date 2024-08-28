@@ -20,7 +20,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > asjdjbkjafb
 
 ### Laura Sofía Diaz Cobba
->![Laura]()
+>![Laura](https://github.com/micaelaacc/Proyecto_FunBio/blob/dbe3e130885d78bb586fc12cf9db7f9aa151c95d/Im%C3%A1genes/LauraDiaz.jpg)
 >askam
 
 ### Juan Jose Correa Arrieta
