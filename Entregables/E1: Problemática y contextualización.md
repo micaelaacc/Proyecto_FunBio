@@ -3,7 +3,11 @@
 ## Análisis del caso clínico
 A nuestro equipo de trabajo se le asignó el caso de una paciente de 50 años que en enero de 2024 presentó la amputación de los miembros superiores por debajo del codo y al mes siguiente, en febrero, presentó la amputación de los miembros inferiores por debajo de la rodilla. Estas amputaciones se dieron a causa de la propagación de una sepsis que la paciente padecía con anterioridad. En marzo del mismo año, acudió por primera vez a un consultorio para solicitar rehabilitación integral y uso de prótesis. Para el mes de junio, la paciente conluyó satisfactoriamente la fase preprotésica por lo que está apta para el usó de una prótesis. En ese sentido, requiere la prescripción de las prótesis para continuar con las terapias de la fase protésica.
 
-Para ver el informe médico detallado haga click [aqui]()
+| **Prevencion** | **Diagnostico** | **Tratamiento** | **Monitoreo** |
+|----------------|-----------------|-----------------|---------------|
+|texto           |Amputación de miembros superiores debajo de codo BE R1, bilateral y amputación de miembros inferiores debajo de rodilla BK T1, bilateral| Protesis| texto|
+
+Para ver el informe médico detallado haga click [aqui](https://github.com/micaelaacc/Proyecto_FunBio/blob/f50d659349ad27155f7303aa034bb38914dcbeea/Problem%C3%A1tica/CASO%20PARA%20EL%20EQUIPO%2017.pdf)
 
 ## Definiciones clave
 
