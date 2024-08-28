@@ -17,6 +17,10 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 
 ### Micaela Alejandra Caro Córdova
 > Alumna de la carrera de Ing. Biomédica con interés en el área de Ingeniería de Tejidos y Biomateriales.
+>
+> <p style="text-align: center;">
+> Este texto también está centrado.
+> </p>
 > *Coordinador General*
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/9d5a2ef1b3ba4b66c1fed07f237fbc0a7f87471f/Im%C3%A1genes/MicaelaCaro.jpg" alt="Amputación Transtibial" />
