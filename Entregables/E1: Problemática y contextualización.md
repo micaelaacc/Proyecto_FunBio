@@ -1,5 +1,5 @@
 # Entregable 1: Problemática y contextualización
-![Imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmadrid.fisio-clinics.com%2Fmanejo-traves-de-la-fisioterapia-para-pacientes-amputados-en-miembros-inferiores-fisioclinics-madrid&psig=AOvVaw2gYcS-yielNZs1cle-6gTO&ust=1724974986077000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCS_N7umIgDFQAAAAAdAAAAABAE)
+![Imagen](https://madrid.fisio-clinics.com/sites/default/files/styles/cabecera_articulo/public/field/image/fisioterapia_pacientes_amputados_fisioclinics_madrid.jpg?itok=u_vlQXEf)
 
 ## Índice
 - [Análisis del caso clínico]()
