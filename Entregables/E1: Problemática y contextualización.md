@@ -4,7 +4,7 @@
 ## Índice
 - [Análisis del caso clínico](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1%3A%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#an%C3%A1lisis-del-caso-cl%C3%ADnico)
 - [Definiciones clave](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#definiciones-clave)
-- [Contexto mundial]()
+- [Contexto mundial](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#contexto-mundial)
 - [Contexto en el Perú]()
 - [Diagrama de Ishikawa]()
 - [Definición del problema]()
