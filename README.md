@@ -2,9 +2,9 @@
 <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/401cbbcf2058a27c6ce29f1625b137dc86382f47/Im%C3%A1genes/PUCP-UPCH.png" alt="Amputación Transtibial" />
 </p>
 
-<div style="text-align: center;">
+<p style="text-align: center;">
   <h1>Encabezado Centrando en GitHub</h1>
-</div>
+</p>
 
 
 # Proyecto Fundamentos de Biodiseño
