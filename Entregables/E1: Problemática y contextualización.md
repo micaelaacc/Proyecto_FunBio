@@ -24,7 +24,7 @@ La amputación transtibial conocida como amputación "por debajo de la rodilla" 
 La amputación transradial conocida como amputación "por debajo del codo" (o BE, en inglés) es aquella que se da en la zona del antebrazo por lo que conserva la articulación del codo.
 
 <p align="center">
-  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/1206e3452a849b001f238c390a2090c36e1a321a/Im%C3%A1genes/AmputacionTranstibial.jpg" alt="Amputación Transtibial" />
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/0669228b01d021bf37be50802d57626246ec3d8b/Im%C3%A1genes/AmputacionTransradial.jpg" alt="Amputación Transtibial" />
 </p>
 
 ### Fases de rehabilitación física
