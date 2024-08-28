@@ -18,7 +18,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ### Micaela Alejandra Caro Córdova
 > Alumna de la carrera de Ing. Biomédica con interés en el área de Ingeniería de Tejidos y Biomateriales.
 >
-> ***Coordinadora General***
+> ***Coordinadora General.***
 > Encargada de gestionar el proyecto de nuestro equipo, fomentando el trabajo colaborativo y orientando la investigación en base a nuestros objetivos. 
 > 
 > <p align="center">
@@ -29,7 +29,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ### Laura Sofía Diaz Cobba
 > presentacion
 >
-> ***Diseñadora 3D***
+> ***Diseñadora 3D.***
 > Encargada de
 > 
 > <p align="center">
@@ -39,7 +39,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ### Juan Jose Correa Arrieta
 > presentacion
 >
-> ***Diseñador electrónico***
+> ***Diseñador electrónico.***
 > Encargado de
 > 
 > <p align="center">
@@ -49,7 +49,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ### Gustavo Gabriel Quispe Arbieto
 > presentacion
 >
-> ***Manufactura Digital***
+> ***Manufactura Digital.***
 > Encargado de
 > 
 > <p align="center">
@@ -59,7 +59,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ### Renzo Fernandez Martinez
 > presentacion
 >
-> ***Prototipado electrónico***
+> ***Prototipado electrónico.***
 > Encargado de
 > 
 > <p align="center">
