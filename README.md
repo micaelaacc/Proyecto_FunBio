@@ -28,7 +28,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 >aknak
 
 ### Gustavo Gabriel Quispe Arbieto
->![Gustavo]()
+>![Gustavo](https://github.com/micaelaacc/Proyecto_FunBio/blob/9f67623575597c3b9c1f09f6ba04b7c3a89aae97/Im%C3%A1genes/GustavoQuispe.jpg)
 >a,smdkam
 
 ### Renzo Fernandez Martinez
