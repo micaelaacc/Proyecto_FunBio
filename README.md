@@ -16,11 +16,11 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ![Foto grupal](https://github.com/micaelaacc/Proyecto_FunBio/blob/3e8c7941f17ffe40e17ddc3b843d4e84512b5d74/Im%C3%A1genes/FotoEquipo.jpg)
 
 ### Micaela Alejandra Caro Córdova
-> ![Micaela](https://github.com/micaelaacc/Proyecto_FunBio/blob/54638443853e803773780f6431ec540d078267c0/Im%C3%A1genes/MicaelaCaro.jpg)
+> ![Micaela]()
 > asjdjbkjafb
 
 ### Laura Sofía Diaz Cobba
->![Laura](https://github.com/micaelaacc/Proyecto_FunBio/blob/dbe3e130885d78bb586fc12cf9db7f9aa151c95d/Im%C3%A1genes/LauraDiaz.jpg)
+>![Laura](https://github.com/micaelaacc/Proyecto_FunBio/blob/7d351f709d6d25a5be4514712074eed8f3d03169/Im%C3%A1genes/LauraDiaz.jpg)
 >askam
 
 ### Juan Jose Correa Arrieta
