@@ -3,9 +3,9 @@
 </p>
 
 <div style="text-align: center;">
-  <h1>Este es un encabezado centrado</h1>
-  <p>Este es un párrafo centrado.</p>
+  <h1>Encabezado Centrando en GitHub</h1>
 </div>
+
 
 # Proyecto Fundamentos de Biodiseño
 Bienvenidos al repositorio del Grupo 17 del curso: "Fundamentos de Biodiseño". En este espacio recopilaremos nuestra investigación orientada al desarrollo de una propuesta de innovación 
