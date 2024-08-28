@@ -24,15 +24,15 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 >askam
 
 ### Juan Jose Correa Arrieta
->
+>![Juan](https://github.com/micaelaacc/Proyecto_FunBio/blob/871ea12f26a0870eada641e0b3c39e0055ebaa88/Im%C3%A1genes/JuanCorrea.jpg)
 >aknak
 
 ### Gustavo Gabriel Quispe Arbieto
->texto
+>![Gustavo]()
 >a,smdkam
 
 ### Renzo Fernandez Martinez
->texto
+>![Renzo]()
 >andnka
 
 ## Entregables
