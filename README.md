@@ -1,6 +1,5 @@
-![Presentación](Imágenes/Presentación.jpg)
-
-
+![PUCP UPCH](https://github.com/micaelaacc/Proyecto_FunBio/blob/401cbbcf2058a27c6ce29f1625b137dc86382f47/Im%C3%A1genes/PUCP-UPCH.png)
+# Proyecto Fundamentos de Biodiseño
 Bienvenidos al repositorio del Grupo 17 del curso: "Fundamentos de Biodiseño". En este espacio recopilaremos nuestra investigación orientada al desarrollo de una propuesta de innovación 
 que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pacientes amputados de miembros superiores e inferiores.
 
