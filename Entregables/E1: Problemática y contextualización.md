@@ -2,7 +2,7 @@
 ![Imagen](https://madrid.fisio-clinics.com/sites/default/files/styles/cabecera_articulo/public/field/image/fisioterapia_pacientes_amputados_fisioclinics_madrid.jpg?itok=u_vlQXEf)
 
 ## Índice
-- [Análisis del caso clínico]()
+- [Análisis del caso clínico](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1%3A%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#an%C3%A1lisis-del-caso-cl%C3%ADnico)
 - [Definiciones clave]()
 - [Contexto mundial]()
 - [Contexto en el Perú]()
