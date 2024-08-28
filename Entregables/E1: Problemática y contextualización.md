@@ -14,9 +14,10 @@ Para ver el informe médico detallado haga click [aqui](https://github.com/micae
 La amputación es una intervención quirúrjica irreversible en la que se remueve parcial o totalmente una extremidad del paciente. Sus causas incluyen complicaciones de enfermedades vasculares periféricas, traumatismos, tumores malignos, deficiencias esqueléticas congénitas, etc. Esta condición genera una discapacidad asociada a una menor independencia, menor calidad de vida, mayores comorbilidades, aumento de costos sociales y mayores gastos en los servicios de salud [1].
 
 ### Amputación transtibial (BK)
-La amputación transtibial (o BK, en inglés) es aquella que se da por debajo de la rodilla cortando 
+La amputación transtibial conocida como amputación "por debajo de la rodilla" (o BK, en inglés) es aquella en la que 
 
-### Amputación transradial
+### Amputación transradial (BE)
+La amputación transradial conocida como amputación "por debajo del codo" (o BE, en inglés) es aquella en la que
 
 ### Fases de rehabilitación física
 
