@@ -15,11 +15,25 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ## Nuestro equipo
 ![Foto grupal](https://github.com/micaelaacc/Proyecto_FunBio/blob/3e8c7941f17ffe40e17ddc3b843d4e84512b5d74/Im%C3%A1genes/FotoEquipo.jpg)
 
-- Micaela Alejandra Caro Córdova
-- Laura Sofía Diaz Cobba
-- Juan Jose Correa Arrieta
-- Gustavo Gabriel Quispe Arbieto
-- Renzo Fernandez Martinez
+### Micaela Alejandra Caro Córdova
+> texto
+> asjdjbkjafb
+
+### Laura Sofía Diaz Cobba
+>texto
+>askam
+
+### Juan Jose Correa Arrieta
+>texto
+>aknak
+
+### Gustavo Gabriel Quispe Arbieto
+>texto
+>a,smdkam
+
+### Renzo Fernandez Martinez
+>texto
+>andnka
 
 ## Entregables
 - [E1:Problemática y Contextualización](https://github.com/micaelaacc/Proyecto_FunBio/blob/1ec7285dfbeb0e7ee6c24bd266e0aa4602904272/Entregables/E1%3A%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md)
