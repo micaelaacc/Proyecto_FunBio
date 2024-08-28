@@ -9,7 +9,7 @@
 - [Diagrama de Ishikawa](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#diagrama-de-ishikawa)
 - [Definición del problema](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#diagrama-de-ishikawa)
 - [Estado del arte](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#estado-del-arte)
-- [Bibliografía]()
+- [Bibliografía](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1:%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md#bibliograf%C3%ADa)
 
 
 ## Análisis del caso clínico
