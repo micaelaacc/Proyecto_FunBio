@@ -1,4 +1,16 @@
-# Entregable 1
+# Entregable 1: Problemática y contextualización
+![Imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmadrid.fisio-clinics.com%2Fmanejo-traves-de-la-fisioterapia-para-pacientes-amputados-en-miembros-inferiores-fisioclinics-madrid&psig=AOvVaw2gYcS-yielNZs1cle-6gTO&ust=1724974986077000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCS_N7umIgDFQAAAAAdAAAAABAE)
+
+## Índice
+- [Análisis del caso clínico]()
+- [Definiciones clave]()
+- [Contexto mundial]()
+- [Contexto en el Perú]()
+- [Diagrama de Ishikawa]()
+- [Definición del problema]()
+- [Estado del arte]()
+- [Bibliografía]()
+
 
 ## Análisis del caso clínico
 A nuestro equipo de trabajo se le asignó el caso de una paciente de 50 años que en enero de 2024 presentó la amputación de los miembros superiores por debajo del codo y al mes siguiente, en febrero, presentó la amputación de los miembros inferiores por debajo de la rodilla. Estas amputaciones se dieron a causa de la propagación de una sepsis que la paciente padecía con anterioridad. En marzo del mismo año, acudió por primera vez a un consultorio para solicitar rehabilitación integral y uso de prótesis. Para el mes de junio, la paciente conluyó satisfactoriamente la fase preprotésica por lo que está apta para el usó de una prótesis. En ese sentido, requiere la prescripción de las prótesis para continuar con las terapias de la fase protésica.
