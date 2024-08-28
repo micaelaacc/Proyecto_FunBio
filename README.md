@@ -13,6 +13,8 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ## Temática del proyecto
 
 ## Nuestro equipo
+![Foto grupal](https://github.com/micaelaacc/Proyecto_FunBio/blob/3e8c7941f17ffe40e17ddc3b843d4e84512b5d74/Im%C3%A1genes/FotoEquipo.jpg)
+
 - Micaela Alejandra Caro Córdova
 - Laura Sofía Diaz Cobba
 - Juan Jose Correa Arrieta
