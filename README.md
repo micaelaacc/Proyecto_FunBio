@@ -20,7 +20,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 - Renzo Fernandez Martinez
 
 ## Entregables
-- [E1:Problemática y Contextualización](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/Entregables/E1%3A%20Problem%C3%A1tica%20y%20Contextualizaci%C3%B3n.md)
+- [E1:Problemática y Contextualización]()
 - E2
 - E3
 - E4
