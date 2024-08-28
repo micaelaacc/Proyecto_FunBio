@@ -2,7 +2,7 @@
 
 ## Análisis del caso
 
-## Contexto Mundial
+## Contexto mundial
 
 ## Contexto en el Perú
 
