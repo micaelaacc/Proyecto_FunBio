@@ -16,7 +16,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ![Foto grupal](https://github.com/micaelaacc/Proyecto_FunBio/blob/3e8c7941f17ffe40e17ddc3b843d4e84512b5d74/Im%C3%A1genes/FotoEquipo.jpg)
 
 ### Micaela Alejandra Caro Córdova
-> ![Micaela]()
+> ![Micaela](https://github.com/micaelaacc/Proyecto_FunBio/blob/9d5a2ef1b3ba4b66c1fed07f237fbc0a7f87471f/Im%C3%A1genes/MicaelaCaro.jpg)
 > asjdjbkjafb
 
 ### Laura Sofía Diaz Cobba
