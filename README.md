@@ -32,7 +32,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 >a,smdkam
 
 ### Renzo Fernandez Martinez
->![Renzo]()
+>![Renzo](https://github.com/micaelaacc/Proyecto_FunBio/blob/05be8e02e425794016597591efc764f0282b4991/Im%C3%A1genes/RenzoFernandez.jpg)
 >andnka
 
 ## Entregables
