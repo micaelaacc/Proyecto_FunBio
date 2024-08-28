@@ -8,11 +8,7 @@ Bienvenidos al repositorio del Grupo 17 del curso: "Fundamentos de Biodiseño". 
 que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pacientes amputados de miembros inferiores y superiores.
 
 ![Imagen](https://www.unc.edu.ar/sites/default/files/Presentaci%C3%B3n%20de%20los%20trabajos%20integradores%20de%20la%20c%C3%A1tedra%20de%20ingenier%C3%ADa%20en%20Rehabilitaci%C3%B3n.jpg)
-## Tabla de contenidos
-- [Temática del proyecto](https://github.com/micaelaacc/Proyecto_FunBio#tem%C3%A1tica-del-proyecto)
-- [Nuestro equipo](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/README.md#nuestro-equipo)
-- [Entregables](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/README.md#entregables)
-- [Bibliografía](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/README.md#bibliograf%C3%ADa)
+
 
 ## Nuestro equipo
 ![Foto grupal](https://github.com/micaelaacc/Proyecto_FunBio/blob/3e8c7941f17ffe40e17ddc3b843d4e84512b5d74/Im%C3%A1genes/FotoEquipo.jpg)
@@ -79,5 +75,3 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 - E7
 - E8
 - E9
-## Bibliografía
-
