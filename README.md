@@ -7,6 +7,7 @@
 Bienvenidos al repositorio del Grupo 17 del curso: "Fundamentos de Biodiseño". En este espacio recopilaremos nuestra investigación orientada al desarrollo de una propuesta de innovación 
 que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pacientes amputados de miembros inferiores y superiores.
 
+![Imagen](https://www.unc.edu.ar/sites/default/files/Presentaci%C3%B3n%20de%20los%20trabajos%20integradores%20de%20la%20c%C3%A1tedra%20de%20ingenier%C3%ADa%20en%20Rehabilitaci%C3%B3n.jpg)
 ## Tabla de contenidos
 - [Temática del proyecto](https://github.com/micaelaacc/Proyecto_FunBio#tem%C3%A1tica-del-proyecto)
 - [Nuestro equipo](https://github.com/micaelaacc/Proyecto_FunBio/blob/main/README.md#nuestro-equipo)
