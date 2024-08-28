@@ -11,9 +11,10 @@ Para ver el informe médico detallado haga click [aqui](https://github.com/micae
 
 ## Definiciones clave
 ### ¿Qué es una amputación?
-La amputación es la remoción parcial o total de una extremidad. Sus causas incluyen complicaciones de enfermedades vasculares periféricas, traumatismos, tumores malignos, deficiencias esqueléticas congénitas, etc. Esta condición genera una discapacidad asociada a una menor independencia, menor calidad de vida, mayores comorbilidades, aumento de costos sociales y mayores gastos en los servicios de salud.
+La amputación es una intervención quirúrjica irreversible en la que se remueve parcial o totalmente una extremidad del paciente. Sus causas incluyen complicaciones de enfermedades vasculares periféricas, traumatismos, tumores malignos, deficiencias esqueléticas congénitas, etc. Esta condición genera una discapacidad asociada a una menor independencia, menor calidad de vida, mayores comorbilidades, aumento de costos sociales y mayores gastos en los servicios de salud [1].
 
-### Amputación transtibial
+### Amputación transtibial (BK)
+La amputación transtibial (o BK, en inglés) es aquella que se da por debajo de la rodilla cortando 
 
 ### Amputación transradial
 
@@ -30,3 +31,4 @@ La amputación es la remoción parcial o total de una extremidad. Sus causas inc
 ## Estado del arte
 
 ## Bibliografía
+[1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
