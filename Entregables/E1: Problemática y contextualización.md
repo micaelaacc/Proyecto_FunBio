@@ -5,7 +5,7 @@ A nuestro equipo de trabajo se le asignó el caso de una paciente de 50 años qu
 
 | **Prevencion** | **Diagnostico** | **Tratamiento** | **Monitoreo** |
 |----------------|-----------------|-----------------|---------------|
-|texto           |- Amputación de miembros superiores debajo de codo BE R1, bilateral y amputación de miembros inferiores debajo de rodilla BK T1, bilateral -  Muñones debajo de codo (BE), R1. Hombros con rango articular flexión 130° y abducción 100° bilateral. - Muñones debajo de rodilla (BK), T1, forma cilíndrica, cicatriz no dolorosa, tejido celular subcutáneo regular cantidad, mioplastía adecuada, borde óseo romo.| Protesis| texto|
+|texto           |Amputación de miembros superiores debajo de codo BE R1, bilateral y amputación de miembros inferiores debajo de rodilla BK T1, bilateral. Muñones debajo de codo (BE), R1. Hombros con rango articular flexión 130° y abducción 100° bilateral. Muñones debajo de rodilla (BK), T1, forma cilíndrica, cicatriz no dolorosa, tejido celular subcutáneo regular cantidad, mioplastía adecuada, borde óseo romo.| Se indicó radiografías de muñones y exámenes de laboratorio (hemograma, glucosa, urea, creatinina, perfil lipídico). Terapia Física, Terapia ocupacional, Servicio Social, Psicología.| texto|
 
 Para ver el informe médico detallado haga click [aqui](https://github.com/micaelaacc/Proyecto_FunBio/blob/f50d659349ad27155f7303aa034bb38914dcbeea/Problem%C3%A1tica/CASO%20PARA%20EL%20EQUIPO%2017.pdf)
 
