@@ -10,7 +10,12 @@ A nuestro equipo de trabajo se le asignó el caso de una paciente de 50 años qu
 Para ver el informe médico detallado haga click [aqui](https://github.com/micaelaacc/Proyecto_FunBio/blob/f50d659349ad27155f7303aa034bb38914dcbeea/Problem%C3%A1tica/CASO%20PARA%20EL%20EQUIPO%2017.pdf)
 
 ## Definiciones clave
+### ¿Qué es una amputación?
+La amputación es la remoción parcial o total de una extremidad. Sus causas incluyen complicaciones de enfermedades vasculares periféricas, traumatismos, tumores malignos, deficiencias esqueléticas congénitas, etc. Esta condición genera una discapacidad asociada a una menor independencia, menor calidad de vida, mayores comorbilidades, aumento de costos sociales y mayores gastos en los servicios de salud.
 
+### Amputación transtibial
+### Amputación transradial
+### Fases de rehabilitación física
 
 ## Contexto mundial
 
