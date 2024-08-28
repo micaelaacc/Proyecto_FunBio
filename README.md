@@ -18,35 +18,50 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 ### Micaela Alejandra Caro Córdova
 > Alumna de la carrera de Ing. Biomédica con interés en el área de Ingeniería de Tejidos y Biomateriales.
 >
-> <p style="text-align: center;">
-> Este texto también está centrado.
-> </p>
-> *Coordinador General*
+> ***Coordinadora General***
+> Encargada de
+> 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/9d5a2ef1b3ba4b66c1fed07f237fbc0a7f87471f/Im%C3%A1genes/MicaelaCaro.jpg" alt="Amputación Transtibial" />
 > </p>
 
 
 ### Laura Sofía Diaz Cobba
-> presentacion 
+> presentacion
+>
+> ***Diseñadora 3D***
+> Encargada de
+> 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/98ab83206090fdcadfd333a53128c7f198ec8cdb/Im%C3%A1genes/LauraDiaz.jpg" alt="Amputación Transtibial" />
 > </p>
 
 ### Juan Jose Correa Arrieta
-> presentacion 
+> presentacion
+>
+> ***Diseñador electrónico***
+> Encargado de
+> 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/871ea12f26a0870eada641e0b3c39e0055ebaa88/Im%C3%A1genes/JuanCorrea.jpg" alt="Amputación Transtibial" />
 > </p>
 
 ### Gustavo Gabriel Quispe Arbieto
-> presentacion 
+> presentacion
+>
+> ***Manufactura Digital***
+> Encargado de
+> 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/9f67623575597c3b9c1f09f6ba04b7c3a89aae97/Im%C3%A1genes/GustavoQuispe.jpg" alt="Amputación Transtibial" />
 > </p>
 
 ### Renzo Fernandez Martinez
-> presentacion 
+> presentacion
+>
+> ***Prototipado electrónico***
+> Encargado de
+> 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/05be8e02e425794016597591efc764f0282b4991/Im%C3%A1genes/RenzoFernandez.jpg" alt="Amputación Transtibial" />
 > </p>  
