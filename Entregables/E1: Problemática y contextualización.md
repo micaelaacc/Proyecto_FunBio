@@ -53,6 +53,7 @@ Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pa
 ## Diagrama de Ishikawa
 
 ## Definición del problema
+Pérdida de independencia y menor calidad de vida.
 
 ## Estado del arte
 
