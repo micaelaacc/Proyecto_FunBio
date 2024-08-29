@@ -39,8 +39,8 @@ La amputación transtibial conocida como amputación "por debajo de la rodilla" 
   <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/1206e3452a849b001f238c390a2090c36e1a321a/Im%C3%A1genes/AmputacionTranstibial.jpg" alt="Amputación Transtibial" />
 </p>
 
-### Terapia ocupacional
-La terapia ocupacional [2].
+### Terapia ocupacional en pacientes amputados
+La terapia ocupacional es un servicio desde el cual se busca dotar a la persona amputada de un mayor grado de independencia y autonomía personal, mejorando su calidad de vida en aspectos tanto físicos, sociales, laborales y emocionales [2].
 
 #### 1. Fase Preprotésica
 [2].
