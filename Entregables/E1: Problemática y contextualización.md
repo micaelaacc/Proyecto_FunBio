@@ -58,8 +58,8 @@ Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pa
 
 ## Bibliografía
 - [1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
-- [2] https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
+- [2] Hernández Díaz AR, Acosta Díaz L, Hernández Rojas AL, Moreira Martínez MM, Rodríguez López M. Comportamiento de las amputaciones no traumáticas de miembros inferiores durante 2019-2020. Rev Ciencias Médicas [Internet]. 2021 [Citado: Fecha de acceso]; 25(3): e5048. URL disponible en: https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
 - [3] https://www.cdc.gov/diabetes/es/diabetes-complications/como-prevenir-las-amputaciones-relacionadas-con-la-diabetes.html
 - [4] https://scielo.isciii.es/scielo.php?pid=S0376-78922021000300014&script=sci_arttext&tlng=pt
-- [5] http://scielo.sld.cu/scielo.php?pid=S1684-18242021000102759&script=sci_arttext
+- [5] de Armas Mestre, Joanna, Soria Pérez, Reynier, Ibis González, Sandra, Bethencourt González, Maury, Benavides Flores, Maraysi, & Rivera Somoano, Esteban. (2021). Comportamiento del dolor fantasma en pacientes amputados en Cárdenas. Periodo 2015-2019. Revista Médica Electrónica, 43(1), 2759-2770. Epub 28 de febrero de 2021. Recuperado en 29 de agosto de 2024. URL disponible en: http://scielo.sld.cu/scielo.php?pid=S1684-18242021000102759&script=sci_arttext
 
