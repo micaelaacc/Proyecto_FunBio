@@ -25,8 +25,8 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 
 
 ### Laura Sofía Diaz Cobba
-> presentacion
 > Estudiante de la carrera de Ingeniería biomédica con interéses en el mercado y elaboración de productos.
+> 
 > ***Diseñadora 3D.***
 > Encargada de diseñar los bocetos y diseño del prototipo en 3 dimensiones que permitan visualizar el producto con la finalidad que sea atractivo y funcional para los requerimientos del paciente.
 > 
