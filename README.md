@@ -58,7 +58,8 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > Alumno de Ingeniería Biomédica con un profundo interés en la aplicación de tecnologías de fabricación aditiva (impresión 3D) en el desarrollo de dispositivos médicos.
 >
 > ***Prototipado electrónico.***
-> Encargado del prototipado 3D de nuestra solución, en conjunto de establecer los parámetros cinemáticos y dinámicos para la impresión . Asimismo, responsable del diseño y desarrollo de > circuitos electrónicos personalizados, desde la etapa de prototipado hasta la integración final.
+> Encargado del prototipado 3D de nuestra solución, en conjunto de establecer los parámetros cinemáticos y dinámicos para la impresión . Asimismo, responsable del diseño y desarrollo de
+> circuitos electrónicos personalizados, desde la etapa de prototipado hasta la integración final.
 > 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/05be8e02e425794016597591efc764f0282b4991/Im%C3%A1genes/RenzoFernandez.jpg" alt="Amputación Transtibial" />
