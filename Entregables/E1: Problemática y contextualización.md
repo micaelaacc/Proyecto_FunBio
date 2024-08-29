@@ -51,7 +51,7 @@ En el perú, la principoal causa de amputacion es la diabetes mellitus(42.3%) en
 Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pacientes, de los cuales el 92,4% fueron ampputaciones derivadas del miembro inferior, 7,6 de miembro superior. Dentro de los amputados de miembro inferior se encontro una tasa de 52,9% en amputaciones sobre la rodilla, 44,3 bajo la rodilla y6 2,7% en amputacion bilateral..
 
 ## Diagrama de Ishikawa
-
+![Ishikawa](https://github.com/micaelaacc/Proyecto_FunBio/blob/a3128d786217b6abc4f913369bfdf413b50fbaf6/Im%C3%A1genes/DiagramaIshikawa.jpg)
 ## Definición del problema
 Pérdida de independencia y menor calidad de vida.
 
