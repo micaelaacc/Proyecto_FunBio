@@ -35,7 +35,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > </p>
 
 ### Juan Jose Correa Arrieta
-> Alumno de la carrera de Ingeniería Biomédica. Interesado en al rama de Ingeniería de tejidos y Biomecánica. Me gusta hacer deportes, leer libros y escuchar música.
+> Alumno de la carrera de Ingeniería Biomédica. Interesado en la rama de Ingeniería de tejidos y Biomecánica. Me gusta hacer deportes, leer libros y escuchar música.
 >
 > ***Diseñador electrónico.***
 > Encargado del área de electónica y programación para un adecuado desarrollo del dispositivo.
