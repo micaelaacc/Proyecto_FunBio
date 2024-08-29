@@ -56,7 +56,8 @@ Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pa
 ## Definición del problema
 Dentro de todo lo que involucra la pérdida de independencia y menor calidad de vida en un paciente amputado y considerando que nuestra paciente en específico solía desempeñar un cargo administrativo en su empleo, decidimos centrarnos en la siguiente problemática delimitada:
 
-***Escacez de prótesis que permitan una adecuada reinserción laboral en pacientes con amputación bilateral de miembros inferiores y superiores que ocupan cargos administrativos***
+***Escacez de prótesis que permitan una adecuada reinserción laboral en pacientes con amputación bilateral de miembros inferiores (BK) y superiores (BE) que ocupan cargos administrativos en el Perú***
+
 
 
 
