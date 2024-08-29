@@ -57,9 +57,9 @@ Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pa
 ## Estado del arte
 
 ## Bibliografía
-[1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
-[2] https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
-[3] https://www.cdc.gov/diabetes/es/diabetes-complications/como-prevenir-las-amputaciones-relacionadas-con-la-diabetes.html
-[4] https://scielo.isciii.es/scielo.php?pid=S0376-78922021000300014&script=sci_arttext&tlng=pt
-[5] http://scielo.sld.cu/scielo.php?pid=S1684-18242021000102759&script=sci_arttext
+- [1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
+- [2] https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
+- [3] https://www.cdc.gov/diabetes/es/diabetes-complications/como-prevenir-las-amputaciones-relacionadas-con-la-diabetes.html
+- [4] https://scielo.isciii.es/scielo.php?pid=S0376-78922021000300014&script=sci_arttext&tlng=pt
+- [5] http://scielo.sld.cu/scielo.php?pid=S1684-18242021000102759&script=sci_arttext
 
