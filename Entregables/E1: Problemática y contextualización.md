@@ -39,16 +39,26 @@ La amputación transtibial conocida como amputación "por debajo de la rodilla" 
   <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/1206e3452a849b001f238c390a2090c36e1a321a/Im%C3%A1genes/AmputacionTranstibial.jpg" alt="Amputación Transtibial" />
 </p>
 
-### Fases de rehabilitación física
+### Terapia ocupacional
+La terapia ocupacional
+
+**1. Fase Preprotésica**
+
+**2. Fase Protésica**
 
 ## Contexto mundial
-Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [2]. 
-En general, las amputaciones de miembros inferiores son más comunes que las de miembros superiores. Esto se debe a que la principal causa es por las enfermedades crónicas mencionadas, especialmente en países de bajos recursos. Se estima que cerca del 80% son resultado de complicaciones de la diabetes [3]. Por otro lado, otra causa más común es por traumatismo, en muchos casos se presentan accidentes de tránsito lo que es frecuente en muchos países. En ese sentido, está causa también está relacionada con las amputaciones de los miembros superiores, se estima que un 68% es debido a heridas graves y accidentes, como laborales y lesiones por maquinarias [4]. 
-La amputación, tanto de miembro superior como inferior, genera un impacto profundo en la calidad de vida de la persona afectada. La pérdida de una extremidad afecta principalmente a la funcionalidad y movilidad, lo que implica adquirir diferentes costumbres en la rutina diaria. Asimismo, también afecta a nivel psicológico, como la ansiedad, depresión y baja autoestima que al no ser tratados a tiempo, pueden generar trastornos y dificultades [5].
+Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [3]. 
+En general, las amputaciones de miembros inferiores son más comunes que las de miembros superiores. Esto se debe a que la principal causa es por las enfermedades crónicas mencionadas, especialmente en países de bajos recursos. Se estima que cerca del 80% son resultado de complicaciones de la diabetes [4]. Por otro lado, otra causa más común es por traumatismo, en muchos casos se presentan accidentes de tránsito lo que es frecuente en muchos países. En ese sentido, está causa también está relacionada con las amputaciones de los miembros superiores, se estima que un 68% es debido a heridas graves y accidentes, como laborales y lesiones por maquinarias [5]. 
+La amputación, tanto de miembro superior como inferior, genera un impacto profundo en la calidad de vida de la persona afectada. La pérdida de una extremidad afecta principalmente a la funcionalidad y movilidad, lo que implica adquirir diferentes costumbres en la rutina diaria. Asimismo, también afecta a nivel psicológico, como la ansiedad, depresión y baja autoestima que al no ser tratados a tiempo, pueden generar trastornos y dificultades [6].
 
 ## Contexto en el Perú
-En el perú, la principoal causa de amputacion es la diabetes mellitus(42.3%) en amputaciones no traumaticas, entre estas elmiembro inferior es el mas frecuente. Las aputaciones transfemorales tienen una frecuencia de 53.9% , llevando la mayoria de casos a diferencia de las operaciones a nivel internacional.
-Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pacientes, de los cuales el 92,4% fueron ampputaciones derivadas del miembro inferior, 7,6 de miembro superior. Dentro de los amputados de miembro inferior se encontro una tasa de 52,9% en amputaciones sobre la rodilla, 44,3 bajo la rodilla y 62,7% en amputacion bilateral..
+En el Perú, el principal y único organismo encargado del planteamiento y ejecución de protesis es Instituto Nacional de Rehabilitacion(IRN) al contar con un departamento específico en Rehabilitación integral y evaluación psicológica, especializado en medicina física y rehabilitación[7]. Durante 2023, de enero a septiembre, el IRN evaluo un total de 15739 casos de quemaduras, transtornos posturales y amputaciones[8]. 
+Los pacientes de amputaciones no son pocos. Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pacientes amputados, de los cuales el 92,4% fueron ampputaciones derivadas del miembro inferior, 7,6 de miembro superior. Dentro de los amputados de miembro inferior se encontro una tasa de 52,9% en amputaciones sobre la rodilla, 44,3 bajo la rodilla y 2,7% en amputacion bilateral.[9]
+
+
+A nivel general, en el Perú, la principal causa de amputacion es la diabetes mellitus(42.3%) en amputaciones no traumaticas, entre estas el miembro inferior es el más frecuente. Las aputaciones transfemorales tienen una frecuencia de 53.9% , llevando la mayoria de casos a diferencia de las operaciones a nivel internacional.[9]
+Los pacientes que deseen reincorporarse a su vida diaria tras una amputación pueden considerar el uso de prótesis. En Perú, esta desición es evaluada principalmente por la DIDRIAQTP, una subdivision especializada del IRN, encargada de la implementación y evaluación de protesis. Los pacientes que lo acuden son evaluados por el medico y un equipo multidisciplinario debiendo pasar dos fases, la fase prepotésica y protésica(protésica con pilón y con protesis)[9].
+
 
 ## Diagrama de Ishikawa
 ![Ishikawa](https://github.com/micaelaacc/Proyecto_FunBio/blob/a3128d786217b6abc4f913369bfdf413b50fbaf6/Im%C3%A1genes/DiagramaIshikawa.jpg)
@@ -65,8 +75,14 @@ Dentro de todo lo que involucra la pérdida de independencia y menor calidad de 
 
 ## Bibliografía
 - [1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
-- [2] Hernández Díaz AR, Acosta Díaz L, Hernández Rojas AL, Moreira Martínez MM, Rodríguez López M. Comportamiento de las amputaciones no traumáticas de miembros inferiores durante 2019-2020. Rev Ciencias Médicas [Internet]. 2021 [Citado: Fecha de acceso]; 25(3): e5048. URL disponible en: https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
-- [3] CDC. (2024). Cómo prevenir las amputaciones relacionadas con la diabetes. https://www.cdc.gov/diabetes/es/diabetes-complications/como-prevenir-las-amputaciones-relacionadas-con-la-diabetes.html
-- [4] Bitar Benítez, Elsy Margarita, Gaviria Posada, Sebastián, León Fernández, Nathalia de, & Gallego Gónima, Sabrina. (2021). Epidemiología del trauma de miembro superior atendido en seis instituciones de salud de la ciudad de Medellín, Colombia, en 2016. Cirugía Plástica Ibero-Latinoamericana, 47(3), 323-332. Epub 01 de noviembre de 2021. URL disponible en: https://scielo.isciii.es/scielo.php?pid=S0376-78922021000300014&script=sci_arttext&tlng=pt
-- [5] de Armas Mestre, Joanna, Soria Pérez, Reynier, Ibis González, Sandra, Bethencourt González, Maury, Benavides Flores, Maraysi, & Rivera Somoano, Esteban. (2021). Comportamiento del dolor fantasma en pacientes amputados en Cárdenas. Periodo 2015-2019. Revista Médica Electrónica, 43(1), 2759-2770. Epub 28 de febrero de 2021. Recuperado en 29 de agosto de 2024. URL disponible en: http://scielo.sld.cu/scielo.php?pid=S1684-18242021000102759&script=sci_arttext
+- [2]https://revistasanitariadeinvestigacion.com/terapia-ocupacional-en-amputados-de-miembro-superior/
+- [3] Hernández Díaz AR, Acosta Díaz L, Hernández Rojas AL, Moreira Martínez MM, Rodríguez López M. Comportamiento de las amputaciones no traumáticas de miembros inferiores durante 2019-2020. Rev Ciencias Médicas [Internet]. 2021 [Citado: Fecha de acceso]; 25(3): e5048. URL disponible en: https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
+- [4] CDC. (2024). Cómo prevenir las amputaciones relacionadas con la diabetes. https://www.cdc.gov/diabetes/es/diabetes-complications/como-prevenir-las-amputaciones-relacionadas-con-la-diabetes.html
+- [5] Bitar Benítez, Elsy Margarita, Gaviria Posada, Sebastián, León Fernández, Nathalia de, & Gallego Gónima, Sabrina. (2021). Epidemiología del trauma de miembro superior atendido en seis instituciones de salud de la ciudad de Medellín, Colombia, en 2016. Cirugía Plástica Ibero-Latinoamericana, 47(3), 323-332. Epub 01 de noviembre de 2021. URL disponible en: https://scielo.isciii.es/scielo.php?pid=S0376-78922021000300014&script=sci_arttext&tlng=pt
+- [6] de Armas Mestre, Joanna, Soria Pérez, Reynier, Ibis González, Sandra, Bethencourt González, Maury, Benavides Flores, Maraysi, & Rivera Somoano, Esteban. (2021). Comportamiento del dolor fantasma en pacientes amputados en Cárdenas. Periodo 2015-2019. Revista Médica Electrónica, 43(1), 2759-2770. Epub 28 de febrero de 2021. Recuperado en 29 de agosto de 2024. URL disponible en: http://scielo.sld.cu/scielo.php?pid=S1684-18242021000102759&script=sci_arttext
+- [7] Ministerio de Salud de Perú, "Resolución Directoral N° 009-2024-SA-DG-INR," Gob.pe. https://cdn.www.gob.pe/uploads/document/file/5729586/5088554-rd-009-2024-sa-dg-inr.pdf.
+- [8] Ministerio de Salud de Perú, "INR brindó más de 15,700 terapias a los pacientes con amputaciones y quemaduras," Gob.pe. https://www.gob.pe/institucion/minsa/noticias/850099-inr-brindo-mas-de-15-700-terapias-a-los-pacientes-con-amputaciones-y-quemaduras.
+- [9] Ministerio de Salud de Perú, "Resolución Directoral N° 132-2021-SA-DG-INR," Gob.pe. https://cdn.www.gob.pe/uploads/document/file/2193263/RD%20132-2021-SA-DG-INR.pdf.pdf.
+
+
 
