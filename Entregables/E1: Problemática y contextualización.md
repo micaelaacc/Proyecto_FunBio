@@ -54,6 +54,10 @@ Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pa
 ![Ishikawa](https://github.com/micaelaacc/Proyecto_FunBio/blob/a3128d786217b6abc4f913369bfdf413b50fbaf6/Im%C3%A1genes/DiagramaIshikawa.jpg)
 
 ## Definición del problema
+Dentro de todo lo que involucra la pérdida de independencia y menor calidad de vida en un paciente amputado y considerando que nuestra paciente en específico solía desempeñar un cargo administrativo en su empleo, decidimos centrarnos en el siguiente tema delimitado:
+
+***Dificultad para la reinserción laboral en pacientes con amputación bilateral de miembros inferiores y superiores que ocupan cargos administrativos***
+
 
 
 ## Estado del arte
