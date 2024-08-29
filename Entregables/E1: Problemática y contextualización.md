@@ -26,26 +26,26 @@ Para ver el informe médico detallado haga click [aqui](https://github.com/micae
 La amputación es una intervención quirúrjica irreversible en la que se remueve parcial o totalmente una extremidad del paciente. Sus causas incluyen complicaciones de enfermedades vasculares periféricas, traumatismos, tumores malignos, deficiencias esqueléticas congénitas, etc. Esta condición genera una discapacidad asociada a una menor independencia, menor calidad de vida, mayores comorbilidades, aumento de costos sociales y mayores gastos en los servicios de salud [1].
 
 ### Amputación transradial (BE)
-La amputación transradial conocida como amputación "por debajo del codo" (o BE, en inglés) es aquella que se da en la zona del antebrazo por lo que conserva la articulación del codo.
+La amputación transradial conocida como amputación "por debajo del codo" (o BE, en inglés) es aquella que se da en la zona del antebrazo por lo que conserva la articulación del codo [1].
 
 <p align="center">
   <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/0669228b01d021bf37be50802d57626246ec3d8b/Im%C3%A1genes/AmputacionTransradial.jpg" alt="Amputación Transtibial" />
 </p>
 
 ### Amputación transtibial (BK)
-La amputación transtibial conocida como amputación "por debajo de la rodilla" (o BK, en inglés) es aquella que corta los huesos de la espinilla y el gemelo, conservando la articulación de la rodilla.
+La amputación transtibial conocida como amputación "por debajo de la rodilla" (o BK, en inglés) es aquella que corta los huesos de la espinilla y el gemelo, conservando la articulación de la rodilla [1].
 
 <p align="center">
   <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/1206e3452a849b001f238c390a2090c36e1a321a/Im%C3%A1genes/AmputacionTranstibial.jpg" alt="Amputación Transtibial" />
 </p>
 
 ### Terapia ocupacional
-La terapia ocupacional
+La terapia ocupacional [2].
 
-**1. Fase Preprotésica**
-
-**2. Fase Protésica**
-
+#### 1. Fase Preprotésica
+[2].
+#### 2. Fase Protésica
+[2].
 ## Contexto mundial
 Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [3]. 
 En general, las amputaciones de miembros inferiores son más comunes que las de miembros superiores. Esto se debe a que la principal causa es por las enfermedades crónicas mencionadas, especialmente en países de bajos recursos. Se estima que cerca del 80% son resultado de complicaciones de la diabetes [4]. Por otro lado, otra causa más común es por traumatismo, en muchos casos se presentan accidentes de tránsito lo que es frecuente en muchos países. En ese sentido, está causa también está relacionada con las amputaciones de los miembros superiores, se estima que un 68% es debido a heridas graves y accidentes, como laborales y lesiones por maquinarias [5]. 
