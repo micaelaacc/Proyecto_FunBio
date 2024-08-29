@@ -28,17 +28,17 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > presentacion
 >
 > ***Diseñadora 3D.***
-> Encargada de
+> Encargada 
 > 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/98ab83206090fdcadfd333a53128c7f198ec8cdb/Im%C3%A1genes/LauraDiaz.jpg" alt="Amputación Transtibial" />
 > </p>
 
 ### Juan Jose Correa Arrieta
-> presentacion
+> Alumno de la carrera de Ingeniería Biomédica. Interesado en al rama de Ingeniería de tejidos y Biomecánica. Me gusta hacer deportes, leer libros y escuchar música.
 >
 > ***Diseñador electrónico.***
-> Encargado de
+> Encargado del área de electónica y programación para un adecuado desarrollo del dispositivo.
 > 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/871ea12f26a0870eada641e0b3c39e0055ebaa88/Im%C3%A1genes/JuanCorrea.jpg" alt="Amputación Transtibial" />
