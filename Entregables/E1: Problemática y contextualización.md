@@ -42,6 +42,7 @@ La amputación transtibial conocida como amputación "por debajo de la rodilla" 
 ### Fases de rehabilitación física
 
 ## Contexto mundial
+Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [2].
 
 ## Contexto en el Perú
 En el perú, la principoal causa de amputacion es la diabetes mellitus(42.3%) en amputaciones no traumaticas, entre estas elmiembro inferior es el mas frecuente. Las aputaciones transfemorales tienen una frecuencia de 53.9% , llevando la mayoria de casos a diferencia de las operaciones a nivel internacional.
@@ -55,3 +56,4 @@ Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pa
 
 ## Bibliografía
 [1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
+[2] https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
