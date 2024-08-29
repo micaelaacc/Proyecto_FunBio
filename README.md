@@ -26,9 +26,9 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 
 ### Laura Sofía Diaz Cobba
 > presentacion
->
+> Estudiante de la carrera de Ingeniería biomédica con interéses en el mercado y elaboración de productos.
 > ***Diseñadora 3D.***
-> Encargada 
+> Encargada de diseñar los bocetos y diseño del prototipo en 3 dimensiones que permitan visualizar el producto con la finalidad que sea atractivo y funcional para los requerimientos del paciente.
 > 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/98ab83206090fdcadfd333a53128c7f198ec8cdb/Im%C3%A1genes/LauraDiaz.jpg" alt="Amputación Transtibial" />
