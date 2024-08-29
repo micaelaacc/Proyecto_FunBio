@@ -42,7 +42,9 @@ La amputación transtibial conocida como amputación "por debajo de la rodilla" 
 ### Fases de rehabilitación física
 
 ## Contexto mundial
-Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [2].
+Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [2]. 
+En general, las amputaciones de miembros inferiores son más comunes que las de miembros superiores. Esto se debe a que la principal causa es por las enfermedades crónicas mencionadas, especialmente en países de bajos recursos. Se estima que cerca del 80% son resultado de complicaciones de la diabetes [3]. Por otro lado, otra causa más común es por traumatismo, en muchos casos se presentan accidentes de tránsito lo que es frecuente en muchos países. En ese sentido, está causa también está relacionada con las amputaciones de los miembros superiores, se estima que un 68% es debido heridas graves y accidentes, como laborales y lesiones por maquinarias [4]. 
+
 
 ## Contexto en el Perú
 En el perú, la principoal causa de amputacion es la diabetes mellitus(42.3%) en amputaciones no traumaticas, entre estas elmiembro inferior es el mas frecuente. Las aputaciones transfemorales tienen una frecuencia de 53.9% , llevando la mayoria de casos a diferencia de las operaciones a nivel internacional.
@@ -57,3 +59,7 @@ Segun datos recogidos por el IRN, se registro en el año 2020 un total de 278 pa
 ## Bibliografía
 [1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
 [2] https://www.medigraphic.com/pdfs/pinar/rcm-2021/rcm213n.pdf
+[3] https://www.cdc.gov/diabetes/es/diabetes-complications/como-prevenir-las-amputaciones-relacionadas-con-la-diabetes.html
+[4] https://scielo.isciii.es/scielo.php?pid=S0376-78922021000300014&script=sci_arttext&tlng=pt
+
+
