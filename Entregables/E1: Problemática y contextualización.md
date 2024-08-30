@@ -71,7 +71,7 @@ Dentro de todo lo que involucra la pérdida de independencia y menor calidad de 
 ***Escacez de prótesis que permitan una adecuada reinserción laboral en pacientes con amputación bilateral de miembros inferiores (BK) y superiores (BE) que ocupan cargos administrativos en el Perú***
 
 ## Estado del arte
-
+- En la primera fuente nos comenta como el miermbro superior es la parte del cuerpo con mayor funcionalidad en nuestras actividades diarias, es por ello, que cuando se realiza una amputacion parcial o total de ello, conlleva a un impacto negativo. En dicha fuente se especifica de la creación de un prototipo de bajo costo que utilice varias técnicas para que los amputados puedan tener una reintegración a la sociedad con normalidad. Comenta acerca de de que las prótesis superiores se divivden en dos las pasivas y activas en las cuales las activas son las que estan teniendo mayor evolución hoy en día. Analiza las prótesis de propulsión en la cual se captura el movimiento relativo del brazo, mientras que, las prótesis mioelectricas son prótesis con mejor apariencia y una mayor ventaja en el aumento de fuerza y facilidad que da, sin embargo, el costo es elevado. De igual forma, se presenta el diseño mecanico de protesis que es la habitual protesis. En esta fuente se puede encontrar información que nos ayuda en nuestro prototipado, ya que, presenta una diversidad de herramientas y propuestas.
 ## Bibliografía
 - [1] https://www.sciencedirect.com/science/article/pii/S2211033X22467995#sec0230
 - [2]https://revistasanitariadeinvestigacion.com/terapia-ocupacional-en-amputados-de-miembro-superior/
