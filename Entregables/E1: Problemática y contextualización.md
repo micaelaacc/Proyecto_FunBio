@@ -46,7 +46,7 @@ La terapia ocupacional es un servicio desde el cual se busca dotar a la persona 
 En esta etapa  el objetivo principal es preparar al paciente para la prótesis, en concreto preparar el muñón para el encaje y posterior funcionalidad de la prótesis. Potenciando a su vez la máxima independencia hasta su colocación y cambio de dominancia si lo requiere [2].
 
 #### 2. Fase Protésica
-Esta fase es alcanzada si el muñón del paciente tiene las características necesarias para ser protetizado y el paciente reúne las condiciones intelectuales y cognitivas necesarias para la comprensión del uso de la prótesis, esto también debe tenerse en cuenta por el médico rehabilitados para la prescripción del tipo de prótesis. Una vez elegida la prótesis más adecuada, se realizará el encaje y finalmente el ensamblaje y pruebas en el paciente [2].\
+Esta fase es alcanzada si el muñón del paciente tiene las características necesarias para ser protetizado y el paciente reúne las condiciones intelectuales y cognitivas necesarias para la comprensión del uso de la prótesis, esto también debe tenerse en cuenta por el médico rehabilitados para la prescripción del tipo de prótesis. Una vez elegida la prótesis más adecuada, se realizará el encaje y finalmente el ensamblaje y pruebas en el paciente [2].
 
 ## Contexto mundial
 Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [3]. 
