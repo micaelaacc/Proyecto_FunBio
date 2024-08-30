@@ -82,6 +82,6 @@ Dentro de todo lo que involucra la pérdida de independencia y menor calidad de 
 - [7] Ministerio de Salud de Perú, "Resolución Directoral N° 009-2024-SA-DG-INR," Gob.pe. https://cdn.www.gob.pe/uploads/document/file/5729586/5088554-rd-009-2024-sa-dg-inr.pdf.
 - [8] Ministerio de Salud de Perú, "INR brindó más de 15,700 terapias a los pacientes con amputaciones y quemaduras," Gob.pe. https://www.gob.pe/institucion/minsa/noticias/850099-inr-brindo-mas-de-15-700-terapias-a-los-pacientes-con-amputaciones-y-quemaduras.
 - [9] Ministerio de Salud de Perú, "Resolución Directoral N° 132-2021-SA-DG-INR," Gob.pe. https://cdn.www.gob.pe/uploads/document/file/2193263/RD%20132-2021-SA-DG-INR.pdf.pdf.
-
+- [10] Cruz Camacho, J. (2019). Desarrollo de una prótesis de mano para amputados parciales de bajo costo para uso en países en desarrollo: estudio de dos casos de pacientes en india y Colombia.
 
 
