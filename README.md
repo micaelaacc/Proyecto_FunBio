@@ -66,13 +66,3 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > </p>  
 
 
-## Entregables
-- [E1:Problemática y Contextualización](https://github.com/micaelaacc/Proyecto_FunBio/blob/1ec7285dfbeb0e7ee6c24bd266e0aa4602904272/Entregables/E1%3A%20Problem%C3%A1tica%20y%20contextualizaci%C3%B3n.md)
-- E2
-- E3
-- E4
-- E5
-- E6
-- E7
-- E8
-- E9
