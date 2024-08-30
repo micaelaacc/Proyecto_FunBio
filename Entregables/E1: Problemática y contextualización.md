@@ -43,9 +43,11 @@ La amputación transtibial conocida como amputación "por debajo de la rodilla" 
 La terapia ocupacional es un servicio desde el cual se busca dotar a la persona amputada de un mayor grado de independencia y autonomía personal, mejorando su calidad de vida en aspectos tanto físicos, sociales, laborales y emocionales [2].
 
 #### 1. Fase Preprotésica
-[2].
+En esta etapa  el objetivo principal es preparar al paciente para la prótesis, en concreto preparar el muñón para el encaje y posterior funcionalidad de la prótesis. Potenciando a su vez la máxima independencia hasta su colocación y cambio de dominancia si lo requiere [2].
+
 #### 2. Fase Protésica
-[2].
+Esta fase es alcanzada si el muñón del paciente tiene las características necesarias para ser protetizado y el paciente reúne las condiciones intelectuales y cognitivas necesarias para la comprensión del uso de la prótesis, esto también debe tenerse en cuenta por el médico rehabilitados para la prescripción del tipo de prótesis. Una vez elegida la prótesis más adecuada, se realizará el encaje y finalmente el ensamblaje y pruebas en el paciente [2].\
+
 ## Contexto mundial
 Sobre la amputación a nivel global, el número de pacientes amputados se incrementa anualmente debido al envejecimiento de la población, con la edad las personas presentan enfermedades crónicas, como por ejemplo, la diabetes y EAP [3]. 
 En general, las amputaciones de miembros inferiores son más comunes que las de miembros superiores. Esto se debe a que la principal causa es por las enfermedades crónicas mencionadas, especialmente en países de bajos recursos. Se estima que cerca del 80% son resultado de complicaciones de la diabetes [4]. Por otro lado, otra causa más común es por traumatismo, en muchos casos se presentan accidentes de tránsito lo que es frecuente en muchos países. En ese sentido, está causa también está relacionada con las amputaciones de los miembros superiores, se estima que un 68% es debido a heridas graves y accidentes, como laborales y lesiones por maquinarias [5]. 
