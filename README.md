@@ -45,10 +45,10 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > </p>
 
 ### Gustavo Gabriel Quispe Arbieto
-> presentacion
+> Alumno de la carrera de Ingeniería Biomédica, interesado en la rama de Ingeniería de tejidos
 >
 > ***Manufactura Digital.***
-> Encargado de
+> Encargado de crear modelos digitales basados en las necesidades y caracteristicas del paciente con el dispositivo
 > 
 > <p align="center">
 > <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/9f67623575597c3b9c1f09f6ba04b7c3a89aae97/Im%C3%A1genes/GustavoQuispe.jpg" alt="Amputación Transtibial" />
