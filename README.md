@@ -20,7 +20,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > Encargada de gestionar el proyecto de nuestro equipo, fomentando el trabajo colaborativo y orientando la investigación en base a nuestros objetivos.
 > 
 > <p align="center">
-> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/7d9cd0abd89ad221a5f39e511ce1144fdb88f97d/Im%C3%A1genes/MicaelaCaro.jpg" alt="Micaela" />
+> <img src="" alt="Micaela" />
 > </p>
 
 
