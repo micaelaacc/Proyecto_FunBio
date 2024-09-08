@@ -17,11 +17,13 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > Alumna de la carrera de Ing. Biomédica con interés en el área de Ingeniería de Tejidos y Biomateriales.
 >
 > ***Coordinadora General.***
-> Encargada de gestionar el proyecto de nuestro equipo, fomentando el trabajo colaborativo y orientando la investigación en base a nuestros objetivos. 
+> Encargada de gestionar el proyecto de nuestro equipo, fomentando el trabajo colaborativo y orientando la investigación en base a nuestros objetivos.
 > 
 > <p align="center">
-> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/9d5a2ef1b3ba4b66c1fed07f237fbc0a7f87471f/Im%C3%A1genes/MicaelaCaro.jpg" alt="Amputación Transtibial" />
+> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/b1fb5c97fb1faa37f384f9298ae190f16346290c/Im%C3%A1genes/MicaelaCaroC.jpg" alt="Micaela" />
 > </p>
+
+
 
 
 ### Laura Sofía Diaz Cobba
@@ -31,7 +33,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > Encargada de diseñar los bocetos y diseño del prototipo en 3 dimensiones que permitan visualizar el producto con la finalidad que sea atractivo y funcional para los requerimientos del paciente.
 > 
 > <p align="center">
-> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/98ab83206090fdcadfd333a53128c7f198ec8cdb/Im%C3%A1genes/LauraDiaz.jpg" alt="Amputación Transtibial" />
+> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/98ab83206090fdcadfd333a53128c7f198ec8cdb/Im%C3%A1genes/LauraDiaz.jpg" alt="Laura" />
 > </p>
 
 ### Juan Jose Correa Arrieta
@@ -41,7 +43,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > Encargado del área de electónica y programación para un adecuado desarrollo del dispositivo.
 > 
 > <p align="center">
-> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/871ea12f26a0870eada641e0b3c39e0055ebaa88/Im%C3%A1genes/JuanCorrea.jpg" alt="Amputación Transtibial" />
+> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/871ea12f26a0870eada641e0b3c39e0055ebaa88/Im%C3%A1genes/JuanCorrea.jpg" alt="Juan" />
 > </p>
 
 ### Gustavo Gabriel Quispe Arbieto
@@ -51,7 +53,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > Encargado de crear modelos digitales basados en las necesidades y caracteristicas del paciente con el dispositivo
 > 
 > <p align="center">
-> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/9f67623575597c3b9c1f09f6ba04b7c3a89aae97/Im%C3%A1genes/GustavoQuispe.jpg" alt="Amputación Transtibial" />
+> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/9f67623575597c3b9c1f09f6ba04b7c3a89aae97/Im%C3%A1genes/GustavoQuispe.jpg" alt="Gustavo" />
 > </p>
 
 ### Renzo Fernandez Martinez
@@ -62,7 +64,7 @@ que nos permita mejorar la calidad de vida y el proceso de rehabilitación de pa
 > circuitos electrónicos personalizados, desde la etapa de prototipado hasta la integración final.
 > 
 > <p align="center">
-> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/05be8e02e425794016597591efc764f0282b4991/Im%C3%A1genes/RenzoFernandez.jpg" alt="Amputación Transtibial" />
+> <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/05be8e02e425794016597591efc764f0282b4991/Im%C3%A1genes/RenzoFernandez.jpg" alt="Renzo" />
 > </p>  
 
 
