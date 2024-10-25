@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/56ad9af3334187d38dd6f7407ea60bcb06e3d254/Im%C3%A1genes/4.png">
 </p>
 
 <p align="center">
