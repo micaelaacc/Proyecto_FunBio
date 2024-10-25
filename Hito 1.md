@@ -15,39 +15,42 @@
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/5.png">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="
+https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/6.png">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="
+https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/7.png">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/8.png">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/9.png">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/10.png">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/11.png">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/12.png
+">
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/13.png">
 </p>
 
 <p align="center">
