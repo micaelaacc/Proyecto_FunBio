@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/b5aa9bb9909a7713ac36875d2f825aab899ed511/Im%C3%A1genes/6.png">
 </p>
 
 <p align="center">
