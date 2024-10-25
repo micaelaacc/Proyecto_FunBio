@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/micaelaacc/Proyecto_FunBio/blob/8921ca59673d75fb82494bc9389364023228e05e/Im%C3%A1genes/2.png">
 </p>
 
 <p align="center">
