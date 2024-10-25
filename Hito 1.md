@@ -19,13 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="
-https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/6.png">
+  <img src="">
 </p>
 
 <p align="center">
-  <img src="
-https://github.com/micaelaacc/Proyecto_FunBio/blob/287994fc6728287e2cc14b6f1fe23bee35a14a0f/Im%C3%A1genes/7.png">
+  <img src="">
 </p>
 
 <p align="center">
